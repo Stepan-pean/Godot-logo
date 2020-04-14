@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/386102__ldezem__anvil-lokomo-a-100-kg-hammer-on-horn-1-time.wav-db8b5762a943d274af5eaa7439d9b6e3.sample"
+
+[deps]
+
+source_file="res://386102__ldezem__anvil-lokomo-a-100-kg-hammer-on-horn-1-time.wav"
+dest_files=[ "res://.import/386102__ldezem__anvil-lokomo-a-100-kg-hammer-on-horn-1-time.wav-db8b5762a943d274af5eaa7439d9b6e3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

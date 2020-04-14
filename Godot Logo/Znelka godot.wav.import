@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Znelka godot.wav-4322b2854b85852cbbcb97054aa4bb9a.sample"
+
+[deps]
+
+source_file="res://Znelka godot.wav"
+dest_files=[ "res://.import/Znelka godot.wav-4322b2854b85852cbbcb97054aa4bb9a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
